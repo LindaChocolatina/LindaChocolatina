@@ -1,5 +1,6 @@
 ## Hello, curious soul ✨ Soy Linda — entra, este es mi rincón de código, arte y un poco de magia.
 
+### "La normalidad nunca ha creado magia. Programar es, en esencia, una forma de artesanía."
 
 ## Aprendiz de ADSO & Creative Developer en formación
 
