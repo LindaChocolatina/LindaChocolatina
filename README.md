@@ -68,11 +68,13 @@ Software con sentido humano para la gestión de arte inclusivo.
 - 📧 [lindasioc@gmail.com]
 - 💼 [www.linkedin.com/in/linda-c-carrillo-méndez-2098293b5]
 
-  <div align="center">
-  <a href="https://trama-codigo.onrender.com/"><img src="https://img.shields.io/badge/Website-4A6B4E?style=for-the-badge&logo=Vercel&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/linda-c-carrillo-méndez-2098293b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:lindasioc@gmail.com"><img src="https://img.shields.io/badge/Email-9C2A3B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
+## 📈 Mi pulso creativo
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LindaChocolatina&show_icons=true&theme=dracula&count_private=true" alt="Estadísticas de GitHub" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LindaChocolatina&layout=compact&theme=dracula&hide_border=true" alt="Lenguajes más usados" />
+</p>
 
 *"Donde el bit se entrelaza con la fibra..."*
 
