@@ -56,11 +56,6 @@ Software con sentido humano para la gestión de arte inclusivo.
 
 ---
 
-## 📈 Mi pulso creativo
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LindaChocolatina&show_icons=true&theme=dracula&count_private=true)
-
----
-
 ## 📬 Hablemos de hilos y código
 
 - 🌿 **Visita mi jardín:** [Trama & Código](https://trama-codigo.onrender.com) (Portafolio & Bitácora)
@@ -69,6 +64,6 @@ Software con sentido humano para la gestión de arte inclusivo.
 
 Disponible para colaborar en proyectos que necesiten una dosis de diseño humano y arquitectura consciente.
 
----
+
 *"Donde el bit se entrelaza con la fibra..."*
 
