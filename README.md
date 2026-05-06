@@ -1,4 +1,4 @@
-## Hello, curious soul ✨ I’m Linda — come in, this is my little corner of code, art, and a bit of magic.”
+## Hello, curious soul ✨ Soy Linda — entra, este es mi rincón de código, arte y un poco de magia.
 
 
 ## Aprendiz de ADSO & Creative Developer en formación
