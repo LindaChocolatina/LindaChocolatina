@@ -1,6 +1,5 @@
 ## Hello, curious soul ✨ Soy Linda — entra, este es mi rincón de código, arte y un poco de magia.
 
-### "La normalidad nunca ha creado magia. Programar es, en esencia, una forma de artesanía."
 
 ## Aprendiz de ADSO & Creative Developer en formación
 
@@ -65,6 +64,7 @@ Software con sentido humano para la gestión de arte inclusivo.
 
 Disponible para colaborar en proyectos que necesiten una dosis de diseño humano y arquitectura consciente.
 
+---
+*"La normailidad nunca ha creado magia. Programas es, en esencia, una forma de artesanía."*
 
-*"Donde el bit se entrelaza con la fibra..."*
 
