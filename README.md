@@ -1,7 +1,7 @@
 ## Hello, curious soul ✨ Soy Linda — entra, este es mi rincón de código, arte y un poco de magia.
 
 
-## Aprendiz de ADSO & Creative Developer en formación
+### Aprendiz de ADSO & Creative Developer en formación
 
 Transformo la lógica técnica en experiencias visuales con alma.
 Actualmente estoy explorando cómo tejer narrativas digitales donde la estética y la funcionalidad coexisten.
@@ -16,7 +16,7 @@ Mi misión es cultivar herramientas digitales que ayuden a mujeres a optimizar s
 
 ---
 
-## 🛠️ Mi Canasto de Herramientas (Stack)
+### 🛠️ Mi Canasto de Herramientas (Stack)
 
 ### 💻 Backend & Lógica
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -56,7 +56,7 @@ Software (aún en desarrollo) con sentido humano para la gestión del arte inclu
 
 ---
 
-## 📬 Hablemos de hilos y código
+### 📬 Hablemos de hilos y código
 
 - 🌿 **Visita mi jardín:** [Trama & Código](https://trama-codigo.onrender.com) (Portafolio & Bitácora)
 - 💼 **Conectemos:** [LinkedIn](www.linkedin.com/in/linda-c-carrillo-méndez)
