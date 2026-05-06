@@ -64,7 +64,7 @@ Software con sentido humano para la gestión de arte inclusivo.
 ## 📬 Hablemos de hilos y código
 
 - 🌿 **Visita mi jardín:** [Trama & Código](https://trama-codigo.onrender.com) (Portafolio & Bitácora)
-- 💼 **Conectemos:** [LinkedIn](www.linkedin.com/in/linda-c-carrillo-méndez)
+- 💼 **Conectemos:** [www.linkedin.com/in/linda-c-carrillo-méndez](www.linkedin.com/in/linda-c-carrillo-méndez)
 - 📧 **Envíame una carta:** [lindasioc@gmail.com]
 
 Disponible para colaborar en proyectos que necesiten una dosis de diseño humano y arquitectura consciente.
