@@ -50,8 +50,8 @@ Proyecto de grado: Un refugio digital para el arte independiente. Concepto de "A
 Mi primer hito serverless. Un blog narrativo desde la perspectiva de una mamá perruna cuando la rutina cambia a modo vacacional.
 * **Tech:** HTML/CSS + Firestore.
 
-### [🤝 Arte CIMA](https://github.com/LindaChocolatina/arte-cima) (Aún en desarrollo)
-Software con sentido humano para la gestión de arte inclusivo.
+### [🤝 Arte CIMA](https://github.com/LindaChocolatina/arte-cima) 
+Software (aún en desarrollo) con sentido humano para la gestión del arte inclusivo.
 * **Tech:** Java (Arquitectura por capas) + PostgreSQL.
 
 ---
