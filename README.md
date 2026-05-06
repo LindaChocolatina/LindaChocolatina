@@ -57,24 +57,17 @@ Software con sentido humano para la gestión de arte inclusivo.
 ---
 
 ## 📈 Mi pulso creativo
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LindaChocolatina&show_icons=true&bg_color=17201a&title_color=d4af37&text_color=c2d1c7&icon_color=9c2a3b&count_private=true&hide_border=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LindaChocolatina&layout=compact&bg_color=17201a&title_color=d4af37&text_color=c2d1c7&hide_border=true" alt="Top Lenguajes" />
-</div>
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LindaChocolatina&show_icons=true&theme=dracula&count_private=true)
 
 ---
 
 ## 📬 Hablemos de hilos y código
-- 📧 [lindasioc@gmail.com]
-- 💼 [www.linkedin.com/in/linda-c-carrillo-méndez-2098293b5]
 
-## 📈 Mi pulso creativo
+- 🌿 **Visita mi jardín:** [Trama & Código](https://trama-codigo.onrender.com) (Portafolio & Bitácora)
+- 💼 **Conectemos:** [LinkedIn](www.linkedin.com/in/linda-c-carrillo-méndez)
+- 📧 **Envíame una carta:** [lindasioc@gmail.com]
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LindaChocolatina&show_icons=true&theme=dracula&count_private=true" alt="Estadísticas de GitHub" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LindaChocolatina&layout=compact&theme=dracula&hide_border=true" alt="Lenguajes más usados" />
-</p>
+Disponible para colaborar en proyectos que necesiten una dosis de diseño humano y arquitectura consciente.
 
 *"Donde el bit se entrelaza con la fibra..."*
 
