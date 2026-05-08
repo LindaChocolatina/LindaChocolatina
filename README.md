@@ -38,19 +38,19 @@ Mi misión es cultivar herramientas digitales que ayuden a mujeres a optimizar s
 
 ## 🌸 Proyectos que están floreciendo
 
-### [🌿 Trama & Código](https://github.com/LindaChocolatina/trama-codigo)
+### [🌿 Trama & Código](https://github.com/LindaChocolatina/Trama-Codigo.git)
 Mi ecosistema personal. Un organismo vivo que cambia según la hora del día. 
 * **Tech:** Flask + PostgreSQL (Supabase) + Render.
 
-### [🎨 Ágora Art](https://github.com/LindaChocolatina/agora-art)
+### [🎨 Ágora Art](https://github.com/LindaChocolatina/AgoraArt.git)
 Proyecto de grado: Un refugio digital para el arte independiente. Concepto de "Arte Abducido".
 * **Tech:** Flask + SQLite + Identidad de Marca Cósmica.
 
-### [🏖️ Sobreviviendo a las vacaciones](https://github.com/LindaChocolatina/sobreviviendo-vacaciones)
+### [🏖️ Sobreviviendo a las vacaciones](https://github.com/LindaChocolatina/blog_sobreviviendo_a_las_vacaciones.git)
 Mi primer hito serverless. Un blog narrativo desde la perspectiva de una mamá perruna cuando la rutina cambia a modo vacacional.
 * **Tech:** HTML/CSS + Firestore.
 
-### [🤝 Arte CIMA](https://github.com/LindaChocolatina/arte-cima) 
+### [🤝 Arte CIMA](https://github.com/LindaChocolatina/ArteCIMA.git) 
 Software (aún en desarrollo) con sentido humano para la gestión del arte inclusivo.
 * **Tech:** Java (Arquitectura por capas) + PostgreSQL.
 
