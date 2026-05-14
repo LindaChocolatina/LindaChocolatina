@@ -42,7 +42,7 @@ Mi misión es cultivar herramientas digitales que ayuden a mujeres a optimizar s
 Mi ecosistema personal. Un organismo vivo que cambia según la hora del día. 
 * **Tech:** Flask + PostgreSQL (Supabase) + Render.
 
-### [🎨 Ágora Art](https://github.com/LindaChocolatina/AgoraArt.git)
+### [🎨 Ágora Art](https://github.com/LindaChocolatina/AgoraArtOficial.git)
 Proyecto de grado: Un refugio digital para el arte independiente. Concepto de "Arte Abducido".
 * **Tech:** Flask + SQLite + Identidad de Marca Cósmica.
 
