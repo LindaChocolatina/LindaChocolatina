@@ -62,7 +62,7 @@ Software (aún en desarrollo) con sentido humano para la gestión del arte inclu
 - 💼 **Conectemos:** [LinkedIn](www.linkedin.com/in/linda-c-carrillo-méndez)
 - 📧 **Envíame una carta:** [lindasioc@gmail.com]
 
-Disponible para colaborar en proyectos que necesiten una dosis de diseño humano y arquitectura consciente.
+> *Disponible para colaborar en proyectos que necesiten una dosis de diseño humano y arquitectura consciente.*
 
 ---
 *"La normailidad nunca ha creado magia ✨. Programar es, en esencia, una forma de artesanía."*
