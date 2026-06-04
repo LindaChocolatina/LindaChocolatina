@@ -11,7 +11,7 @@ Mi misión es cultivar herramientas digitales que ayuden a mujeres a optimizar s
 
 - 🏗️ **Construyendo:** Ecosistemas narrativos donde el software aprende a respirar.
 - 🧶 **Entre hilos y bits:** Practico artes de fibra (crochet y bordado) mientras modelo bases de datos.
-- 🌌 **Estética:** Amante de los atardeceres, la tipografía *Josefin Sans*, lo natural y la narración inmersiva.
+- 🌌 **Estética:** Amante de los atardeceres, la tipografía *Josefin Sans*, la naturaleza y la narración inmersiva.
 - 🎯 **Propósito:** Impulsar el *Girl Power* tecnológico en mercados liderados por mujeres.
 
 ---
