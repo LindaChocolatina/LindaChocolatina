@@ -1,6 +1,6 @@
 ## Hello, curious soul ✨ Soy Linda — entra, este es mi rincón de código, arte y un poco de magia.
 
-**Visitas al Perfil:** ![Views](https://komarev.com/ghpvc/?username=LindaChocolatina&label=Views&color=B58F3D)
+
 ### Aprendiz de ADSO & Creative Product Developer en formación
 
 Transformo la lógica técnica en experiencias visuales con alma.
@@ -68,3 +68,4 @@ Software (aún en desarrollo) con sentido humano para la gestión del arte inclu
 *"La normailidad nunca ha creado magia ✨. Programar es, en esencia, una forma de artesanía."*
 
 
+**Visitas al Perfil:** ![Views](https://komarev.com/ghpvc/?username=LindaChocolatina&label=Views&color=B58F3D)
