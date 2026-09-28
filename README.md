@@ -28,12 +28,12 @@ Mi misión es cultivar herramientas digitales que ayuden a mujeres a optimizar s
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🗄️ Persistencia & Nube
+### 🗄️ Persistencia, Nube & Infraestructura
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
+![Coolify](https://img.shields.io/badge/Coolify-%231C2331.svg?style=for-the-badge&logo=coolify&logoColor=white) 
 ---
 
 ## 🌸 Proyectos que están floreciendo
@@ -42,18 +42,18 @@ Mi misión es cultivar herramientas digitales que ayuden a mujeres a optimizar s
 Mi ecosistema personal. Un organismo vivo que cambia según la hora del día. 
 * **Tech:** Flask + PostgreSQL (Supabase) + Render.
 
-### [🎨 Ágora Art](https://github.com/LindaChocolatina/AgoraArtOficial.git)
-Proyecto de grado: Un refugio digital para el arte independiente. Concepto de "Arte Abducido".
-* **Tech:** Flask + SQLite + Identidad de Marca Cósmica.
+### [🎨 Ágora Art](https://agoraart.tech)
+Proyecto de grado: Un refugio digital para el arte independiente. Concepto de "Arte Abducido". 
+* **Enlace en vivo:** [agoraart.tech](https://agoraart.tech) | **Repo:** [GitHub](https://github.com/LindaChocolatina/AgoraArtOficial.git)
+* **Tech:** Flask + PostgreSQL (Self-hosted en Coolify) + Identidad de Marca Cósmica.
 
 ### [🏖️ Sobreviviendo a las vacaciones](https://github.com/LindaChocolatina/blog_sobreviviendo_a_las_vacaciones.git)
 Mi primer hito serverless. Un blog narrativo desde la perspectiva de una mamá perruna cuando la rutina cambia a modo vacacional.
 * **Tech:** HTML/CSS + Firestore.
 
 ### [🤝 Arte CIMA](https://github.com/LindaChocolatina/ArteCIMA.git) 
-Software (aún en desarrollo) con sentido humano para la gestión del arte inclusivo.
-* **Tech:** Java (Arquitectura por capas) + PostgreSQL.
-
+Software con sentido humano para la gestión del arte inclusivo.
+* **Tech:** Java (Arquitectura MVC) + PostgreSQL (Self-hosted en Coolify).
 ---
 
 ### 📬 Hablemos de hilos y código
